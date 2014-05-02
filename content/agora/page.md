@@ -3,11 +3,6 @@ title: Agora Themes
 published: true
 ---
 
----
-title: Agora
-published: true
----
-
 ### This is a level 3 heading
 
 - item
