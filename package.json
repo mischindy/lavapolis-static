@@ -1,0 +1,11 @@
+{
+  "name": "lavapolis-static",
+  "version": "0.0.0",
+  "devDependencies": {
+    "yaml-front-matter": "~3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mischindy/lavapolis-static.git"
+  }
+}
