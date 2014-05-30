@@ -6,7 +6,7 @@ links:
             src: /assets_src/img/logo-zmi.png
             alt: Zentrum fuer Medien und Interaktivitaet
         -
-            src: /assets_src/img/logo-ahg.png
+            src: https://s3-eu-west-1.amazonaws.com/lavapolis.bucket/lavapolis_media/Logo-AHG.png
             alt: Alfred Herrhausen Gesellschaft
         -
             src: /assets_src/img/logo-zhdk.png
