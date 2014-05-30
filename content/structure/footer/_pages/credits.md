@@ -11,7 +11,7 @@
 <dd>State, Berlin (www.s-t-a-t-e.com)</dd>
 <dt>Web development</dt>
 <dd>Lu Nelson, Lalo Martins</dd>
-<dt>Interaction design</dt>
+<dt>Interaction design, Venice Biennale</dt>
 <dd>Moritz Kemper (Zurich University of the Arts)</dd>
 <dt>Video</dt>
 <dd>Robert Schuster</dd>
