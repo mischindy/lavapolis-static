@@ -1,4 +1,5 @@
 #### Legal information
+
 The content and work published on lavapolis.com are protected by the copyright laws of Switzerland. Any duplication, processing, distribution, or use beyond the scope specified in the copyright laws requires the prior written consent of the author.
 
 Downloading and making copies of the website's material is permitted for personal, non-commercial use only. For all website content that is not created by the website operators, all third-party copyrights are respected. Any third-party content is identified as such. If you have reason to believe a copyright infringement has occurred on the website, we ask that you please contact us. In the event that any violation is reported, the content in question will be removed without delay.

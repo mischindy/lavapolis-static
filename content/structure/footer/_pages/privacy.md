@@ -1,4 +1,5 @@
 #### Privacy Policy
+
 This is the main privacy policy for lavapolis.com and for the services provided through this website.
 
 We have ensured appropriate security measures to protect your personal information. We only collect information from you when you register to use the website and in the event that you choose to share your information in posts.
@@ -8,13 +9,9 @@ We don't collect information from you when you use the website. We don't use coo
 We may use your information in the following ways:
 
 * To authenticate your identity for access to certain features of our website
-
 * To contact you with inquiries or notices regarding your use of our website or te provision of our services
-
 * To provide services and to authenticate your identity for access (where required)
-
 * To contact you if your actions violate your agreement with us.
-
 * To fix errors
 
 ##### Registration
