@@ -1,5 +1,5 @@
 ---
-title: LAVAPOLIS
+title:  
 slug: lavapolis
 category: general
 video_id: 94424464
