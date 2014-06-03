@@ -1,7 +1,7 @@
 ---
 _id: footer
 links:
-  partner:
+  Partner:
     -
       src: https://s3-eu-west-1.amazonaws.com/lavapolis.bucket/lavapolis_media/Logo-ZMI.png
       alt: Zentrum fuer Medien und Interaktivitaet
@@ -18,8 +18,9 @@ links:
       src: https://s3-eu-west-1.amazonaws.com/lavapolis.bucket/lavapolis_media/Logo-PH.png
       alt: Pro Helvetia
       href: http://www.prohelvetia.ch/
-  media_partner:
+  Media Partner:
     -
       src: https://s3-eu-west-1.amazonaws.com/lavapolis.bucket/lavapolis_media/Logo-Arte.png
       alt: Arte
       href: http://www.arte.tv/de
+---
