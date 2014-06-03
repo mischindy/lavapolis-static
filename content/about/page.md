@@ -1,20 +1,6 @@
 ---
-title: Agora Themes
+title: About Lavapolis
 published: true
 ---
 
-### This is a level 3 heading
-
-- item
-- item
-- item
-
-Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Vestibulum id ligula porta felis euismod semper. Aenean lacinia bibendum nulla sed consectetur. Cras mattis consectetur purus sit amet fermentum. Maecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, [porta ac consectetur ac](http://michaelschindhelm.com/), vestibulum at eros. 
-
-1. item
-2. item
-3. item
-
-Nulla vitae elit libero, a pharetra augue. Aenean lacinia bibendum nulla sed consectetur. Sed posuere consectetur est at lobortis. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-
-![](http://michaelschindhelm.com/lavapolis-media/kitten.jpg)
+FRIDAY IN VENICE / Lavapolis is a transmedia storytelling project and an online debate game about the future of Europe. People from all over Europe and the world will discuss critical social and political issues with Friday and develop alternative narratives for the continent. Friday will present debate prompts based on his experience traveling through Europe. Registered users can join the debate, read the opinions of others, and write and support proposals. Users who propose the most popular ideas will win privileges in the game.
