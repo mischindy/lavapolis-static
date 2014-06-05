@@ -11,6 +11,6 @@ One of its residents named Friday undertakes a travel to Europe and intiates an 
 
 Find out more with our media partner ARTE: 
 
-http://creative.arte.tv/de/friday-in-venice
+[http://creative.arte.tv/de/friday-in-venice](http://creative.arte.tv/de/friday-in-venice)
 
-http://future.arte.tv/de/das-internet-als-zukunft-europas
+[http://future.arte.tv/de/das-internet-als-zukunft-europas](http://future.arte.tv/de/das-internet-als-zukunft-europas)
