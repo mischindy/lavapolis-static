@@ -8,7 +8,7 @@
 <dt>Editorial team</dt>
 <dd>Michaela Büsse, Michael Fässler, Nathalie Janson</dd>
 <dt>Design</dt>
-<dd>State, Berlin [www.s-t-a-t-e.com](http://www.s-t-a-t-e.com)</dd>
+<dd>State, Berlin <a href="http://www.s-t-a-t-e.com">www.s-t-a-t-e.com</a></dd>
 <dt>Web development</dt>
 <dd>Lu Nelson, Lalo Martins</dd>
 <dt>Interaction design, Venice Biennale</dt>
