@@ -1,7 +1,0 @@
-partners:
-#  - "http://s3-eu-west-1.amazonaws.com/lavapolis.bucket/lavapolis_media/logo-ahg.png"
-  - "http://s3-eu-west-1.amazonaws.com/lavapolis.bucket/lavapolis_media/logo-ph.png"
-  - "http://s3-eu-west-1.amazonaws.com/lavapolis.bucket/lavapolis_media/logo-zhdk.png"
-  - "http://s3-eu-west-1.amazonaws.com/lavapolis.bucket/lavapolis_media/logo-zmi.png"
-media_partners:
-  - "http://s3-eu-west-1.amazonaws.com/lavapolis.bucket/lavapolis_media/logo-arte.png"
