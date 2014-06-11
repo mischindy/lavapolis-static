@@ -45,7 +45,7 @@ Each debate will go on for a certain amount of time. In the upper right-hand cor
 
 #### Privileges
 
-The three official proposals with the highest rating in a debate (not including proposals by the moderator) will be presented by the moderator in his or her concluding video for the debate. In the following debate, their authors will be given the privilege of being able to bypass the nomination process required of user proposals; they will instead be able to directly submit official proposals. Repeat winners will be invited to propose their own debate topics to be hosted by the moderator.
+The three official proposals with the highest rating in a debate (not including proposals by the moderator) will be presented by the moderator in the section "Conclusion". In the following debate, their authors will be given the privilege of being able to bypass the nomination process required of user proposals; they will instead be able to directly submit official proposals. Repeat winners will be invited to propose their own debate topics to be hosted by the moderator.
 
 #### Moderation
 
