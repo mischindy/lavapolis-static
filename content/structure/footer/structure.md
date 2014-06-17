@@ -25,7 +25,7 @@ links:
       href: http://www.arte.tv/de
     -
       src: https://s3-eu-west-1.amazonaws.com/lavapolis.bucket/lavapolis_media/Logo_EYO.png
-      alt: EYO
+      alt: European Youth Forum
       href: http://www.youthforum.org/
       
   
