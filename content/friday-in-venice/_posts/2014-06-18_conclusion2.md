@@ -3,7 +3,7 @@ title: 'Debate 2: What do you think are the shared values of Europeans?'
 slug: conclusion-european-values
 category: conclusions
 published: true
-posted: 2014-05-29
+posted: 2014-06-18
 ---
 
 Friday was a guest of the Alfred Herrhausen Society in Berlin; they had invited important intellectual and political figures to participate in their conference, “Europe: Dream and Reality.” Friday was an onlooker, however. What he found particularly relevant was a critical review of what, if anything, Europeans have in common. 
