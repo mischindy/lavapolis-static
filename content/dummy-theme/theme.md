@@ -1,5 +1,5 @@
 ---
 title: A Dummy Theme
 published: true
-unlisted: true
+unlisted: false
 ---
