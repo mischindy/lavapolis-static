@@ -8,7 +8,7 @@ posted: 2014-05-29
 
 ![](https://s3-eu-west-1.amazonaws.com/lavapolis.bucket/lavapolis_media/Conclusion_1.png)
 
-was a guest of the Alfred Herrhausen Society in Berlin; they had invited important intellectual and political figures to participate in their conference, “Europe: Dream and Reality.” Friday was an onlooker, however. What he found particularly relevant was a critical review of what, if anything, Europeans have in common. 
+Friday was a guest of the Alfred Herrhausen Society in Berlin; they had invited important intellectual and political figures to participate in their conference, “Europe: Dream and Reality.” Friday was an onlooker, however. What he found particularly relevant was a critical review of what, if anything, Europeans have in common. 
 
 Friday therefore launched his next debate right after the Herrhausen conference by asking his community to share with him their views on shared European values.
 
