@@ -1,5 +1,5 @@
 ---
-title: Debate 1: Find the first Pan-European Government
+title: 'Debate 1: Find the first Pan-European Government'
 slug: Conclusion-European-governement
 category: conclusions
 published: true
@@ -27,6 +27,3 @@ Not everybody agreed with the idea of a teenager becoming a minister. One user d
 #### We wish all participants even more success in the next round of debates. Please let me remind you the rules:
 
 Authors whose proposals have been nominated in a debate will be given a privilege. In the following debate, these authors will be allowed to bypass the nomination process required of user proposals; they will instead be able to directly submit official proposals. Repeat winners will be invited to propose their own debate topics to be hosted by the moderator. 
-
-
-
