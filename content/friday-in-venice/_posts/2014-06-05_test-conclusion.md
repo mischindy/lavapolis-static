@@ -1,18 +1,19 @@
 ---
 title: Outcomes 1
 slug: Conclusion-European-governement
-video_id: 55465651651
 category: conclusions
-published: false
+published: true
 posted: 2014-05-29
 ---
+https://s3-eu-west-1.amazonaws.com/lavapolis.bucket/lavapolis_media/Conclusion_1.png
+
 It was Thursday, May 8, when Friday, a resident from the Mediterranean island of Lavapolis, arrived in Strasbourg, the host city of the European parliament. Before a crowd of young journalists from all over Europe, he announced that he would travel throughout Europe over the next months in search of new ideas to improve society. His arrival coincided with the European Youth Event, which gathered some five-thousand people aged between sixteen and thirty in Strasbourg. It was two weeks before the European election. Given the strong euro-scepticism in some parts of the continent, Friday launched his first competition: Find the First Pan-European Government! He suggested, among other people, Reykjavik’s mayor Jón Gnarr and the Austrian Nobel Prize laureate Elfriede Jelinek. 
 
 Five weeks later, a still small but growing community of participants has put forth eight proposals (for details, please visit the archive). 
 
 User Totalpeace made it on top of the list of user proposals and won the most votes for his proposal to name Edward Snowden the Prime Minister of the pan-European government. Congratulations on succeeding in this first debate!
 
- Totalpeace will be awarded with a direct nomination of his proposal in the next debate, number 7.
+Totalpeace will be awarded with a direct nomination of his proposal in the next debate, number 7.
 Here is Totalpeace’s argument:
 “Edward Snowden, of course! It is funny that just Vanity Fair told his story in a convincing and unbiased way:  HYPERLINK "http://www.vanityfair.com/politics/2014/05/edward-snowden-politics-interview" http://www.vanityfair.com/politics/2014/05/edward-snowden-politics-interview Yes, regardless if he is a traitor to US intelligence or not: He is a rare example for somebody taking full responsibility. This is what European politics needs.”
 
