@@ -2,7 +2,7 @@
 title: Debate 1: Find the first Pan-European Government
 slug: Conclusion-European-governement
 category: conclusions
-published: true
+published: false
 posted: 2014-05-29
 ---
  src: https://s3-eu-west-1.amazonaws.com/lavapolis.bucket/lavapolis_media/Conclusion_1.png
@@ -23,7 +23,7 @@ Pinguin’s proposal, which got forty percent of the votes it needed to be nomin
 “Nick D'Aliosio for the first European government! This guy is just genius! At an age of 15 he created his first artificial intelligence tool Summly. He was the youngest person ever to get venture capital and after having sold Summly to Yahoo became one of the youngest self-made millionaires of all time. This is great tech and business talent in one person! Let him run the European ministry for science and technology!”
 Not everybody agreed with the idea of a teenager becoming a minister. One user didn’t like the involvement of business in politics either. However, this proposal ranks second to the Snowden proposal. Congrats to user Pinguin, too! 
 
-### We wish all participants even more success in the next round of debates. Please let me remind you the rules:
+#### We wish all participants even more success in the next round of debates. Please let me remind you the rules:
 
 Authors whose proposals have been nominated in a debate will be given a privilege. In the following debate, these authors will be allowed to bypass the nomination process required of user proposals; they will instead be able to directly submit official proposals. Repeat winners will be invited to propose their own debate topics to be hosted by the moderator. 
 
