@@ -3,7 +3,7 @@ title: 'Debate 3: What’s wrong with the Left and right with the Right?'
 slug: Conclusion-left-right
 category: conclusions
 published: true
-posted: 2014-05-29
+posted: 2014-06-18
 ---
 
 Not surprisingly, in some countries, like France, Britain, and Poland, far-right parties had a strong showing in the European Parliament election. In other countries,  like Greece, the far left advanced. Europe’s growing discontent with the political establishment bears down on the center of the political spectrum. Populist movements promise grass-roots engagement, while often obscuring their hidden agendas. The eloquence of rightists is more convincing to many people than the promises of Europe’s ruling politicians. As Martin Schulz, the former Social Democratic president of the European Parliament, put it: “Today, Anti-Europe has got a soul.”
