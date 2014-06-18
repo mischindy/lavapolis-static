@@ -28,8 +28,8 @@ _Aphta_, a close runner-up, proposed that pop culture is one of Europe’s core 
 Here is the argument: “Europe always wants to be something particular. But it is the result of a war disaster and the intervention of two larger powers, Soviet Russia and the US. Today, Europe is mostly the product of Western market economy and Pop Culture. Pop Culture is nothing specifically European. It is Western. What Europe shares with the rest of the Western world might be its most important value: the value of POP!”
 Further details of the debate can be found in the archive.
 
-#### Congratulation to Schilling, sandoz and aphta! Their proposals in the following debate will bypass the nomination process and immediately join the official list of proposals. Don’t forget: repeat winners earn the privilege of proposing a subject for debate to Friday!
+** Congratulation to Schilling, sandoz and aphta! Their proposals in the following debate will bypass the nomination process and immediately join the official list of proposals. Don’t forget: repeat winners earn the privilege of proposing a subject for debate to Friday!**
 
-#### We wish all participants even more success in the next rounds. 
+**We wish all participants even more success in the next rounds.** 
 
 
