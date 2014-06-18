@@ -2,7 +2,7 @@
 title: Outcomes 1
 slug: Conclusion-European-governement
 category: conclusions
-published: true
+published: false
 posted: 2014-05-29
 ---
 https://s3-eu-west-1.amazonaws.com/lavapolis.bucket/lavapolis_media/Conclusion_1.png
