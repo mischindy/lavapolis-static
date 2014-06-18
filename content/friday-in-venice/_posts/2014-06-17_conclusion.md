@@ -6,8 +6,6 @@ published: true
 posted: 2014-05-29
 ---
 
-![](https://s3-eu-west-1.amazonaws.com/lavapolis.bucket/lavapolis_media/Conclusion_1.png)
-
 It was Thursday, May 8, when Friday, a resident from the Mediterranean island of Lavapolis, arrived in Strasbourg, the host city of the European parliament. Before a crowd of young journalists from all over Europe, he announced that he would travel throughout Europe over the next months in search of new ideas to improve society. His arrival coincided with the European Youth Event, which gathered some five-thousand people aged between sixteen and thirty in Strasbourg. It was two weeks before the European election. Given the strong euro-scepticism in some parts of the continent, Friday launched his first competition: Find the First Pan-European Government! He suggested, among other people, Reykjavik’s mayor Jón Gnarr and the Austrian Nobel Prize laureate Elfriede Jelinek. 
 
 Five weeks later, a still small but growing community of participants has put forth eight proposals (for details, please visit the archive). 
@@ -27,3 +25,5 @@ Not everybody agreed with the idea of a teenager becoming a minister. One user d
 #### We wish all participants even more success in the next round of debates. Please let me remind you the rules:
 
 Authors whose proposals have been nominated in a debate will be given a privilege. In the following debate, these authors will be allowed to bypass the nomination process required of user proposals; they will instead be able to directly submit official proposals. Repeat winners will be invited to propose their own debate topics to be hosted by the moderator. 
+
+![](https://s3-eu-west-1.amazonaws.com/lavapolis.bucket/lavapolis_media/Conclusion_1.png)
