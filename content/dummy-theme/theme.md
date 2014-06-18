@@ -1,6 +1,7 @@
 ---
 title: DUMMY THEME
 published: false
+unlisted: true
 thumb: http://s3-eu-west-1.amazonaws.com/lavapolis.bucket/lavapolis_media/thumb-theme-fridayinvenice.jpg
 excerpt: blah blah blah
 background_theme: http://s3-eu-west-1.amazonaws.com/lavapolis.bucket/lavapolis_media/bg_fridayinvenice_theme.svg
