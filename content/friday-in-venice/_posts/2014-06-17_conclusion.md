@@ -12,20 +12,20 @@ It was Thursday, May 8, when Friday, a resident from the Mediterranean island of
 
 Five weeks later, a still small but growing community of participants has put forth eight proposals (for details, please visit the archive). 
 
-User Totalpeace made it on top of the list of user proposals and won the most votes for his proposal to name Edward Snowden the Prime Minister of the pan-European government. Congratulations on succeeding in this first debate!
+User _Totalpeace_ made it on top of the list of user proposals and won the most votes for his proposal to name Edward Snowden the Prime Minister of the pan-European government. Congratulations on succeeding in this first debate!
 
-Totalpeace will be awarded with a direct nomination of his proposal in the next debate, number 7.
-Here is Totalpeace’s argument:
+_Totalpeace_ will be awarded with a direct nomination of his proposal in the next debate, number 7.
+Here is _Totalpeace’s_ argument:
 “Edward Snowden, of course! It is funny that just Vanity Fair told his story in a convincing and unbiased way: 
 [(link)](http://vanityfair.com/politics/2014/05/edward-snowden-politics-interview) Yes, regardless if he is a traitor to US intelligence or not: He is a rare example for somebody taking full responsibility. This is what European politics needs.”
 
-Pinguin’s proposal, which got forty percent of the votes it needed to be nominated but unfortunately failed to make it on the official list, deserves a mention. 
+_Pinguin’s_ proposal, which got forty percent of the votes it needed to be nominated but unfortunately failed to make it on the official list, deserves a mention. 
 
 “Nick D'Aliosio for the first European government! This guy is just genius! At an age of 15 he created his first artificial intelligence tool Summly. He was the youngest person ever to get venture capital and after having sold Summly to Yahoo became one of the youngest self-made millionaires of all time. This is great tech and business talent in one person! Let him run the European ministry for science and technology!”
 Not everybody agreed with the idea of a teenager becoming a minister. One user didn’t like the involvement of business in politics either. However, this proposal ranks second to the Snowden proposal. Congrats to user Pinguin, too! 
 
-#### We wish all participants even more success in the next round of debates. Please let me remind you the rules:
+**We wish all participants even more success in the next round of debates. Please let me remind you the rules:**
 
-Authors whose proposals have been nominated in a debate will be given a privilege. In the following debate, these authors will be allowed to bypass the nomination process required of user proposals; they will instead be able to directly submit official proposals. Repeat winners will be invited to propose their own debate topics to be hosted by the moderator. 
+**Authors whose proposals have been nominated in a debate will be given a privilege. In the following debate, these authors will be allowed to bypass the nomination process required of user proposals; they will instead be able to directly submit official proposals. Repeat winners will be invited to propose their own debate topics to be hosted by the moderator.**
 
 
