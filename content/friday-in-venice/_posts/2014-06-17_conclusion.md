@@ -2,11 +2,11 @@
 title: Debate 1: Find the first Pan-European Government
 slug: Conclusion-European-governement
 category: conclusions
-published: false
+published: true
 posted: 2014-05-29
 ---
 
-https://s3-eu-west-1.amazonaws.com/lavapolis.bucket/lavapolis_media/Conclusion_1.png
+(https://s3-eu-west-1.amazonaws.com/lavapolis.bucket/lavapolis_media/Conclusion_1.png)
 
 It was Thursday, May 8, when Friday, a resident from the Mediterranean island of Lavapolis, arrived in Strasbourg, the host city of the European parliament. Before a crowd of young journalists from all over Europe, he announced that he would travel throughout Europe over the next months in search of new ideas to improve society. His arrival coincided with the European Youth Event, which gathered some five-thousand people aged between sixteen and thirty in Strasbourg. It was two weeks before the European election. Given the strong euro-scepticism in some parts of the continent, Friday launched his first competition: Find the First Pan-European Government! He suggested, among other people, Reykjavik’s mayor Jón Gnarr and the Austrian Nobel Prize laureate Elfriede Jelinek. 
 
