@@ -17,7 +17,7 @@ User Totalpeace made it on top of the list of user proposals and won the most vo
 Totalpeace will be awarded with a direct nomination of his proposal in the next debate, number 7.
 Here is Totalpeace’s argument:
 “Edward Snowden, of course! It is funny that just Vanity Fair told his story in a convincing and unbiased way: 
-[http://vanityfair.com/politics/2014/05/edward-snowden-politics-interview](http://vanityfair.com/politics/2014/05/edward-snowden-politics-interview) Yes, regardless if he is a traitor to US intelligence or not: He is a rare example for somebody taking full responsibility. This is what European politics needs.”
+[see interview](http://vanityfair.com/politics/2014/05/edward-snowden-politics-interview) Yes, regardless if he is a traitor to US intelligence or not: He is a rare example for somebody taking full responsibility. This is what European politics needs.”
 
 Pinguin’s proposal, which got forty percent of the votes it needed to be nominated but unfortunately failed to make it on the official list, deserves a mention. 
 
