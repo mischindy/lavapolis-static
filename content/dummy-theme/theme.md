@@ -1,6 +1,6 @@
 ---
 title: FRIDAY IN BIELEFELD
-published: true
+published: false
 unlisted: false
 thumb: http://s3-eu-west-1.amazonaws.com/lavapolis.bucket/lavapolis_media/thumb-theme-fridayinvenice.jpg
 excerpt: bla
