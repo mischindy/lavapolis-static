@@ -3,7 +3,7 @@ title: 'Debate 5: Should Europe adopt a system like that of China and Dubai?'
 slug: conclusion-dubai
 category: conclusions
 published: true
-posted: 2014-06-26
+posted: 2014-06-27
 ---
 
 7 official proposals, 2 community proposals
