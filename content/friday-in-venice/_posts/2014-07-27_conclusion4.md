@@ -38,6 +38,7 @@ Yes, its all bad but
 
 _otto6_     nominated 5 days ago
 Nobody knows the future. Einstein predicted in 1937 that there will be no use of nuclear power anytime soon. Only eight years upfront Hiroshima. Technology may change our ways to embark onto the ocean very fast. Floating cities have been proposed by architects and designers. Look up this one: www.seasteading.org/flo…
+
 Like in the real world of policy-making, there was some disagreement about how to avoid or diminish the negative effects of an ecological disaster. Although countries like German plan to exit nuclear power, the community displayed sympathy for its further utilisation. User Samson represented this faction and took third place in the debate. His proposal made it onto the list of official proposals:
 
 resources
