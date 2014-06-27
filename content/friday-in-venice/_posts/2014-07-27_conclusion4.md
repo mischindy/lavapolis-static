@@ -2,7 +2,7 @@
 title: 'Debate 4: What's the solution to the population decline in Europe?'
 slug: population-decline
 category: conclusions
-published: true
+published: false
 posted: 2014-06-26
 ---
 
