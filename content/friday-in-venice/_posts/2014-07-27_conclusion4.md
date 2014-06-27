@@ -2,13 +2,15 @@
 title: 'Debate 4: What's the solution to the population decline in Europe?'
 slug: population-decline
 category: conclusions
-published: false
+published: true
 posted: 2014-06-26
 ---
 
 6 official proposals, 4 community proposals
 
 Recently, a high-profile team of international researchers have confirmed a frightening scenario of global warming: by the year 2100, sea levels might rise by three meters. Rising seas present a serious threat to many cities across the planet, including Tokyo, Hong Kong, Miami, and New Orleans. Foreign policy makers predict that climate change will lead to severe security issues. Although the extent to which climate change is man-made is still debated, the discussion extends to how we can prepare for the consequences to come.
+
+![alt text](https://s3-eu-west-1.amazonaws.com/lavapolis.bucket/lavapolis_media/Friday_DB4.jpg)
 
 I therefore asked the following question:
 
