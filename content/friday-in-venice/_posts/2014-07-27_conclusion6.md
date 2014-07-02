@@ -1,5 +1,5 @@
 ---
-title: 'Debate 4: What is the solution to the population decline in Europe?'
+title: 'Debate 6: What is the solution to the population decline in Europe?'
 slug: population-decline
 category: conclusions
 published: true
