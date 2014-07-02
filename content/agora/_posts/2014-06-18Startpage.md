@@ -5,12 +5,15 @@ category: general
 video_id: 94424464
 published: true
 ---
+_This video takes a look at an island, which does not (yet) exist. Lavapolis_
 
-_My dear mother gave birth to me in Aluva, Kerala._
+We are the vanguard. Each vanguard has a common fate: it is either guided by a new truth or led astray by a new error. We won’t be the ones to learn if the journey will be worthwhile or not.   
 
 The island has both the world’s highest standard of living and the lowest unemployment rate. The education and health systems have a reputation for setting standards - and the ratio of foreigners (almost 80 percent) has not caused any apparent cultural tension so far. 
 
 The current constitution is based on four reliable strategic pillars: populist democracy, universal solidarity, neutrality in foreign policy, and the Autonomous Territories Cooperation 
+
+_My dear mother gave birth to me in Aluva, Kerala._
 
 They are the pioneers of a social experiment that they have selected for themselves. 
 This is LED, the Laboratory for Experimental Dynamics. A privileged space mirroring our ideals. An interphase connecting the multitudes of urban life. Cathartic and cheerful. A contemporary ritual. 
@@ -25,7 +28,6 @@ The cities where we live, wherever they are, are testimonies to our naiveté and
 _I have heard of people who have rediscovered their faith in God here._
 
 Learning from the poorest of the poor means arming ourselves for the future. 
-We are the vanguard. Each vanguard has a common fate: it is either guided by a new truth or led astray by a new error. We won’t be the ones to learn if the journey will be worthwhile.  
 
 _I am also a test dog. But I was the one doing the launching._
 
