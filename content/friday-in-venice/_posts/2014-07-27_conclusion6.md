@@ -8,51 +8,44 @@ posted: 2014-06-28
 
 6 official proposals, 4 community proposals
 
-Recently, a high-profile team of international researchers have confirmed a frightening scenario of global warming: by the year 2100, sea levels might rise by three meters. Rising seas present a serious threat to many cities across the planet, including Tokyo, Hong Kong, Miami, and New Orleans. Foreign policy makers predict that climate change will lead to severe security issues. Although the extent to which climate change is man-made is still debated, the discussion extends to how we can prepare for the consequences to come.
+Experts on demographics have warned many Western countries about the consequences of their shrinking, ageing populations for quite some time now. Some have drawn a gloomy picture of the future of national populations and countries like Italy or Japan.
 
-![alt text](https://s3-eu-west-1.amazonaws.com/lavapolis.bucket/lavapolis_media/Friday_DB4.jpg)
+![alt text](https://s3-eu-west-1.amazonaws.com/lavapolis.bucket/lavapolis_media/Friday_DB6.jpg)
 
-I therefore asked the following question:
+This provoked me to ask the following question:
 
-What is your vision about how will we live in the future?
-Scary discoveries from ecologists have proven that sea levels may rise by three meters over the next century and cause already soon serious threats to international security. Global warming seems to be man—made. Governments don’t manage to make agreements on consumption and pollution limits. How to cope with the flood to come? 
+Is an ageing Society the End?
+In countries like Germany, Italy, and Spain, the population is declining by as much as 30 to 40 percent. With not enough new people being born to replace those that are ageing, these countries rely on immigrants to work and sustain the tax base. But immigration is no panacea. Germany alone would need 300 million new immigrants over the next hundred years to counterbalance this demographic trend. So are there any solutions?
+ 
+Responding to this question, the community was in strong disagreement over the importance of preserving national populations. Some expect that the world will homogenize over the long-term; others highlight the need to preserve distinctive differences between people. However, most respondents accept that changes in social values have caused the ageing and shrinkage of Europe.  
 
-And I presented my three proposals:
-We have to adapt to a life on sea. 
-We have to move closer to the pole.
-We have to pass austerity measures and use all possible forms of renewable energy, including nuclear power.
+Perhaps unsurprisingly, user _magy’s_ call for higher level of “re-productivity” won the top spot in the debate:
 
-The responses from the community fell into one of two categories. Users either supported the latest scientific findings or they questioned our ability to predict the future given the enormous complexity of the issue. A second group showed profound faith in the power of technology to eventually provide us with solutions that we are unable to even think of today.
+Babies
+_magy_     nominated 5 days ago
+As simple is that. Never thought about it...? Seems people have forgotten how to make them. And for what purpose. In my eyes this is something schools should work on. Seriously. It’s more important than IT and history combined.
+The comments to this proposal and others showed a strong opinion that consideration for the upcoming generations has to be fostered and even taught at school.
 
-Proposals from the first group, which tried to avoid a possible ecological disaster or diminish its consequences, became the most popular among members of the community. 
-User _ntaj_, however, achieved the highest ranking, turning our attention to present ecological urgencies and necessary aid initiatives: 
+A user with the rather Chinese-sounding name _xinhua_ suggested that national populations will go extinct over the course of the coming centuries and will instead be replaced by world citizens. This proposal came second in the debate: 
 
-Look at Bosnia and Serbia now, they were just hit by major floods. The IMF offered to give them loans to cope with the situation - with the tiny condition to reform their whole economic model. Can you imagine that? A global institution burdening a country with high interest loans, exploiting their weak situation to enforce economic reforms which will benefit their bank - and all of that just after the country was hit by unprecedented floods? Welcome to planet earth! 
+The end of nations and the beginning of mankind
+_xinhua_     nominated 10 days ago
+In 200 years there might be no Germans, Spaniards etc anymore but residents of Germany, Spain etc. Whoever will populate the territory they will live there and hopefully love it...
 
-This is giving me a hard time - major catastrophes are happening already now and we can't cope with them in a humane way. So, honestly, my vision for the future at the moment is not as clear as my vision for the present: when floods happen in the Balkans, instead of giving loans with high interest rates, give them help to rebuild their country. Don't make profit with the suffering of others but invest in their futures - GIVING instead of taking. If we learn to head in this direction now, we might be equipped for the gigantic catastrophes of the future to come.
+User _sirius_ went even further down the same road and pointed specifically to the anticipated Asian immigration to Europe. This proposal touches on some thorny issues in the field of European migration policy. In the past, immigrants in Europe have often been considered socially inferior and therefore an additional burden to the welfare system. With highly competitive, talented people from emerging countries entering the European labour market, this perspective has changed. _Sirius’_ proposal ranked third on the list of community proposals:
 
-In particular, the community supported the ethical argument of ntaj’s proposal. Some respondents even suggested dissolving the IMF because of its inability to handle an ecological crisis in a way that’s morally acceptable  or introduce a “climate” Marshall plan.
+There is never an end
+_sirius_     nominated 19 hours ago
+China has brought goods and brings now people. As these people are usually hard working they will create also in Europe (as elsewhere) a higher GDP. In some countries they do so already but as part of a shadow economy. Instead of marginalising them Europe should embrace this influx as part of its rejuvenation.
 
-User _otto6_ represented the skeptics among the community by questioning the ability of scientists to predict how the climate will change in the future. At the same time, he/she presented projects that played with the idea of urban offshore developments as indicators of the type of technological innovation that might provide unexpected solutions: 
-Yes, its all bad but
+The community showed little concern about preserving national populations and their cultures. This does not fully reflect what’s currently common sense among the public. Instead, the rise of nationalism, localism, and xenophobia shows that there is no consensus in Europe on how to address both population decline and the pressure to absorb more immigrants.
 
-_otto6_     nominated 5 days ago
-Nobody knows the future. Einstein predicted in 1937 that there will be no use of nuclear power anytime soon. Only eight years upfront Hiroshima. Technology may change our ways to embark onto the ocean very fast. Floating cities have been proposed by architects and designers. Look up this one: www.seasteading.org/flo…
+**Check out the archive to read the debate in full.**
 
-Like in the real world of policy-making, there was some disagreement about how to avoid or diminish the negative effects of an ecological disaster. Although countries like German plan to exit nuclear power, the community displayed sympathy for its further utilisation. User Samson represented this faction and took third place in the debate. His proposal made it onto the list of official proposals:
+**Congratulation to _magy_, _Xinhua_ and _sirius_! Their proposals in the following debate will bypass the nomination process and will instead immediately be considered as official proposals.**
 
-resources
-_samson_     nominated 4 days ago
-Regardless if global warming is man-made or not nations should become independent to fossils. Dependence on fossils means for most nations dependence on other nation's will to share (see Russia). Solar, nuclear, wind power and other sources replace fossils. All efforts today have to go in this direction. No doubt that technology will allow this step if it is wanted.
-
-Altogether, I have observed a growing participation in my debates. Thank you for this!
-
-Check out the archive to read the debate in full.
-
-**Congratulation to _ntaj_! Since user ntaj is a repeat winner, we’re delighted to offer him/her the possibility to propose a topic for a new debate. I’m looking forward to this!**
-
-**_Otto 6_ and _samson_ came in second and third. Their proposals in the following debate will bypass the nomination process and will instead immediately be considered as official proposals.** 
-
-**Don’t forget: repeat winners can earn the privilege to propose a new subject for debate to me!
+**Don’t forget: repeat winners can earn the privilege of proposing a subject for debate to me!
 I wish all participants even more success in the next rounds.**
+
+
 
