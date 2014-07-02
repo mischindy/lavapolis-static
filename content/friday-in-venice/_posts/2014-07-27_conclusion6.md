@@ -3,7 +3,7 @@ title: 'Debate 6: What is the solution to the population decline in Europe?'
 slug: population-decline
 category: conclusions
 published: true
-posted: 2014-06-26
+posted: 2014-06-28
 ---
 
 6 official proposals, 4 community proposals
