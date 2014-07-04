@@ -1,6 +1,6 @@
 ---
 title: 'Debate 6: What is the solution to the population decline in Europe?'
-slug: population-decline
+slug: conclusion-population-decline
 category: conclusions
 published: true
 posted: 2014-06-28
