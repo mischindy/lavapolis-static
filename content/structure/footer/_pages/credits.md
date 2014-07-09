@@ -6,7 +6,7 @@
 	<dt>Project management</dt>
 	<dd>Aline Löw, Niloufar Tajeri</dd>
 	<dt>Editorial team</dt>
-	<dd>Michael Fässler, Nathalie Janson, Janine Meyer</dd>
+	<dd>Michael Fässler, Nathalie Janson, Janine Meyer, Daniela Baer, Giulio Margheri</dd>
 	<dt>Design, Website</dt>
 	<dd>State, Berlin <a href="http://www.s-t-a-t-e.com">www.s-t-a-t-e.com</a></dd>
 	<dt>UX and Front-end development, Website</dt>
