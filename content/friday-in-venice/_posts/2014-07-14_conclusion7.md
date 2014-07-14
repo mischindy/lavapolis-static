@@ -14,7 +14,7 @@ Despite years of policy initiatives and social engagement, Europe is far from ge
 
 Moreover, social tensions often result in an increase in violence toward women. While traveling through different European countries, talking to people and observing their customs, I saw the frustration that many people—not only women—feel toward this situation. I therefore raised the following question: 
 
-Is Europe really modern?
+**Is Europe really modern?**
 
 My argument: Violence against women does not correspond with our image of an enlightened Europe. But the message behind the numbers of a recent study is clear: one in three European women has experienced physical and/or sexual violence―if we take into consideration the entire 18-to-74-year-old population of the EU, this adds up to 61.3 million women. How, in light of this statistic, can society portray itself as enlightened and modern? Does the violence against women point to more deep-seated problems in European societies? Can we say that feminism has reached its goals when we live in a world where outmoded gender norms are still part of the everyday life?
 
