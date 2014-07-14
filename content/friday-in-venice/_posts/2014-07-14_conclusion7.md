@@ -1,7 +1,7 @@
 ---
 title: 'Debate 7: How can we end violence against women?'
 slug: conclusion-violence-women
-category: conclusion
+category: conclusions
 published: true
 posted: 2014-07-14
 ---
