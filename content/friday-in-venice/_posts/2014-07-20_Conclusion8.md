@@ -1,5 +1,5 @@
 ---
-title: 'Debate 7: Is Europe about to split in regions?'
+title: 'Debate 8: Is Europe about to split in regions?'
 slug: conclusion-Europe-regions
 category: conclusions
 published: true
@@ -21,7 +21,9 @@ We received around sixty contributions. Not so bad for a debate that doesn’t t
 User _Serge_ made it to the top of the list with five nomination votes. This proposal does not suggest a specific scenario but instead proposes a surprising strategy to overcome the paralysis in the engineering of a common sense of European-ness:
 
 Reality is not everything
+
 _Serge_     nominated 16 days ago
+
 Europe needs its own Dream Factory. A dream tank instead of the many think tanks, with public recognition allowing a diversion from the current realpolitik. Realpolitik is haunting as it tells you that there is no other possibility but the current mess. Genuine dreamers have to be appointed. The results of the Dream Factory have to be acknowledged by governments, business leaders, and media.
 
 User _sirius_ presented a political scenario that shows the absurdity of the political condition of 19th century Europe. His statement came in second after _Serge’s_.
