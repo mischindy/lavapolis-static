@@ -2,7 +2,7 @@
 title: FRIDAY IN VENICE
 published: true
 ---
-The following instructions applied exclusively to the debate Game of Fiday in Venice.
+The following instructions applied exclusively to the debate Game of Friday in Venice.
 
 #### Instructions for the Debate Game 
 
