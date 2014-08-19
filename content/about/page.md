@@ -17,7 +17,7 @@ Lavapolis is the report of these instances of detachment.
 One of its residents named Friday undertakes a travel to Europe and intiates an online debate game about a possible alternative society. You are invited to follow his travel observations, discuss critical social and political issues with Friday and develop alternative social narratives. Registered users can join the debate, read the opinions of others, and write and support proposals. Users who propose the most popular ideas will win privileges in the game. Read more in “?”.
 
 ### Contact
-[mailto:info@michaelschindhelm.com](info@michaelschindhelm.com)
+[info@michaelschindhelm.com](info@michaelschindhelm.com)
 
 ### Find out more with our media partner ARTE: 
 
