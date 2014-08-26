@@ -14,13 +14,13 @@ The administration of the island calls this a heterotopia, a counter-site, which
 Lavapolis is the report of these instances of detachment.
 
 
-_Lavaplis ist ein transmediales Erzählprojekt über eine Insel, die es nicht gibt, und berichtet von einem Gedanken-Versuch ueber die Frage: Was ist moeglich? Das Projekt umfasst diese partizipative Diskussionsplattform, Perfomances im realen Raum sowie das Buch "Lavapolis".  
+_Lavaplis ist ein transmediales Erzählprojekt über eine Insel, die es nicht gibt, und berichtet von einem Gedanken-Versuch ueber die Frage: Was ist moeglich? Das Projekt umfasst diese partizipative Diskussionsplattform, Perfomances im realen Raum sowie das Buch "Lavapolis"._  
 
-Die hier versammelten Bewohner und Besucher dieser Insel widersprechen sich und stimmen einander zu. In einer anderen Welt sid sie vielleicht Feinde. Doch mit der Landung auf der Insel werden sie Teil eines sozialen Projekts. Die gemeinsame Erwartung: Die Insel-Gesellschaft ermögliche Lebensentwuerfe, die sich dank eines politischen, wirtschaftlichen und kulturellen Experiments unaufhörlich erneuern. Ein Leben zu gleicher Zeit, dessen Umstände sich nicht dem Einfluss seiner Bewohner entziehen. 
+_Die hier versammelten Bewohner und Besucher dieser Insel widersprechen sich und stimmen einander zu. In einer anderen Welt sid sie vielleicht Feinde. Doch mit der Landung auf der Insel werden sie Teil eines sozialen Projekts. Die gemeinsame Erwartung: Die Insel-Gesellschaft ermögliche Lebensentwuerfe, die sich dank eines politischen, wirtschaftlichen und kulturellen Experiments unaufhörlich erneuern. Ein Leben zu gleicher Zeit, dessen Umstände sich nicht dem Einfluss seiner Bewohner entziehen._ 
 
-Die Administration der Insel nennt diese eine Heterotopie, einen Gegenort, der die reale Welt sowohl zeigt, als auch infrage stellt. Der Ort selbst ist zwar flüchtig und fiktiv, enthält jedoch Möglichkeiten – Ablösungen von den scheinbar apodiktischen sozialen oder wirtschaftlichen Gesetzmässigkeiten der Gegenwart – die sich vorübergehend immer wieder ereignen, auch in der realen Welt. 
+_Die Administration der Insel nennt diese eine Heterotopie, einen Gegenort, der die reale Welt sowohl zeigt, als auch infrage stellt. Der Ort selbst ist zwar flüchtig und fiktiv, enthält jedoch Möglichkeiten – Ablösungen von den scheinbar apodiktischen sozialen oder wirtschaftlichen Gesetzmässigkeiten der Gegenwart – die sich vorübergehend immer wieder ereignen, auch in der realen Welt._ 
 
-LAVAPOLIS ist der Bericht von diesen Ablösungen._ 
+_LAVAPOLIS ist der Bericht von diesen Ablösungen._ 
 
 
 ### Friday in Venice
