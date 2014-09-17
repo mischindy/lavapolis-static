@@ -6,6 +6,8 @@ published: true
 posted: 2014-08-26
 ---
 
+5 official proposals, 10 community proposals
+
 Laureati e giovani talenti Italiani, spagnoli e greci stanno facendo rotta in maniera sempre maggiore verso le stabili economie del nord Europa. La perdita di creativi mista all’incapacità di attrarre eccellenze straniere penalizza molto questi paesi, come si può fermare questa "fuga dei cervelli”?  
 
 C’è qualche speranza per i giovani in Italia? 
