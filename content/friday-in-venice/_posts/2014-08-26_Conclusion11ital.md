@@ -1,5 +1,5 @@
 ---
-title: 'Dibattito 11: Come possiamo controllare i flussi migratori del Mediterraneo?
+title: 'Dibattito 11: Come possiamo controllare i flussi migratori del Mediterraneo?'
 slug: conclusion-migration-ital
 category: conclusions
 published: true
