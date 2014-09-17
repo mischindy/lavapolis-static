@@ -1,4 +1,12 @@
-Dibattito 11: Come possiamo controllare i flussi migratori del Mediterraneo?
+---
+title: 'Dibattito 11: Come possiamo controllare i flussi migratori del Mediterraneo?
+slug: conclusion-migration-ital
+category: conclusions
+published: true
+posted: 2014-08-26
+---
+
+4 official proposals, 9 community proposals
 
 La tratta tra l'Africa e la “Fortezza Europa" passando attraverso le acque del Mediterraneo e il sud Italia è divenuta una dei principali rotte per un numero sempre maggiore di migranti. Date le scarse condizioni di sicurezza dei viaggi molti migranti perdono la vita in mare. Come possiamo controllare i flussi migratori del Mediterraneo?
 Durante la mia permanenza in Europa quasi quotidianamente ho sentito parlare di tragedie o sbarchi di immigrati sulle coste Italiane. Spesso le immagini di queste “carrette” del mare sovraccariche di persone e dei centri di accoglienza inadatti a gestire l’emergenza hanno catturato la mia attenzione. Come mi è stato spiegato, l’Italia è solo la porta di ingresso per l’Europa, e gran parte degli immigrati si disperde successivamente in altre nazioni. La traversata del Mediterraneo rimane comunque la parte più pericolosa del viaggio, per questo ho aperto il dibattito chiedendo come possiamo controllare tali flussi migratori. 
