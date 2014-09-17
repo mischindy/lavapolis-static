@@ -5,7 +5,6 @@ category: conclusions
 published: true
 posted: 2014-08-26
 ---
-
 4 official proposals, 9 community proposals
 
 La tratta tra l'Africa e la “Fortezza Europa" passando attraverso le acque del Mediterraneo e il sud Italia è divenuta una dei principali rotte per un numero sempre maggiore di migranti. Date le scarse condizioni di sicurezza dei viaggi molti migranti perdono la vita in mare. Come possiamo controllare i flussi migratori del Mediterraneo?
